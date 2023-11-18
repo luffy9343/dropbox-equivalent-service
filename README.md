@@ -27,13 +27,13 @@ A simple FastAPI application that implements a simplified Dropbox-like service w
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/insane4u00/dropbox-equivalent-service.git
+    cd dropbox-equivalent-service
     ```
 
 3. Run the FastAPI application:
 
-    ```
+    ```bash
     python3 -m uvicorn main:app --host 0.0.0.0 --port 8000
     ```
 
