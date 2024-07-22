@@ -27,7 +27,7 @@ A simple FastAPI application that implements a simplified Dropbox-like service w
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/insane4u00/dropbox-equivalent-service.git
+    git clone https://github.com/luffy9343/dropbox-equivalent-service.git
     cd dropbox-equivalent-service
     ```
 
